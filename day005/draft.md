@@ -24,3 +24,4 @@ kaç lira? > How Much lira?
 su kaç? > how much for water?
 
 her > every
+seviyor musun ? > do i love ?
