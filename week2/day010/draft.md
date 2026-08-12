@@ -772,3 +772,362 @@ Or:
 **Annem Gençlik ve Spor Bakanlığında çalışıyor.**
 
 **Benim ailemde babam, annem, erkek kardeşim ve ben varız.**
+
+---
+
+# 🇹🇷 Unit 3 — Exercises 5–10
+
+## Questions + Correct Answers
+
+> **Note:** Exercise 9–10 depends on an audio text that you haven't provided. I can solve **5, 6, 7, and 8 exactly**. For **9–10**, I’ll tell you what information is missing rather than inventing answers.
+
+---
+
+# 5️⃣ İyelik + Ad Durum Ekleri
+
+### 1.
+
+**Soru:** Bugün sen_____ ders_____ var mı?
+**Cevap:** **Bugün senin dersin var mı?**
+= Do you have a class today?
+
+### 2.
+
+**Soru:** Baba_____ nerede çalışıyor?
+**Cevap:** **Baban nerede çalışıyor?**
+= Where does your father work?
+
+### 3.
+
+**Soru:** Biz_____ ev_____ okul_____ çok uzak.
+**Cevap:** **Bizim evimiz okula çok uzak.**
+= Our house is very far from the school.
+
+### 4.
+
+**Soru:** Sen_____ öğretmen_____ soru soruyorum.
+**Cevap:** **Senin öğretmenine soru soruyorum.**
+= I am asking your teacher a question.
+
+> **öğretmen + i + ne → öğretmenine**
+
+### 5.
+
+**Soru:** O, Mehmet’_____ araba_____ bakıyor.
+**Cevap:** **O, Mehmet’in arabasına bakıyor.**
+= He/She is looking at Mehmet's car.
+
+### 6.
+
+**Soru:** Onlar_____ bahçe_____ havuz var.
+**Cevap:** **Onların bahçesinde havuz var.**
+= There is a swimming pool in their garden.
+
+### 7.
+
+**Soru:** Serpil’_____ hala_____ Şişli’de oturuyor.
+**Cevap:** **Serpil’in halası Şişli’de oturuyor.**
+= Serpil's paternal aunt lives in Şişli.
+
+### 8.
+
+**Soru:** Sen_____ bilgisayar_____ oyun var mı?
+**Cevap:** **Senin bilgisayarında oyun var mı?**
+= Is there a game on your computer?
+
+### 9.
+
+**Soru:** Siz_____ öğretmen_____ İngilizce biliyor mu?
+**Cevap:** **Sizin öğretmeniniz İngilizce biliyor mu?**
+= Does your teacher know English?
+
+### 10.
+
+**Soru:** Mustafa’_____ diş_____ ağrıyor.
+**Cevap:** **Mustafa’nın dişi ağrıyor.**
+= Mustafa's tooth hurts.
+
+### 11.
+
+**Soru:** Ben_____ alın_____ dar.
+**Cevap:** **Benim alnım dar.**
+= My forehead is narrow.
+
+### 12.
+
+**Soru:** Bu konuda siz_____ fikir_____ ne?
+**Cevap:** **Bu konuda sizin fikriniz ne?**
+= What is your opinion about this?
+
+---
+
+# 6️⃣ Eşleştirelim
+
+You need to match the **pronoun + possessive noun** correctly.
+
+### 1
+
+**Soru:** Benim adınız
+**Cevap:** ❌ **Benim adım**
+= My name
+
+### 2
+
+**Soru:** Bizim kardeşin
+**Cevap:** ❌ **Bizim kardeşimiz**
+= Our sibling
+
+### 3
+
+**Soru:** Sizin arabası bozuk mu?
+**Cevap:** ❌ **Sizin arabanız bozuk mu?**
+= Is your car broken?
+
+### 4
+
+**Soru:** Onun saçım
+**Cevap:** ❌ **Onun saçım** → **Onun saçı**
+= His/her hair
+
+### 5
+
+**Soru:** Onların evimiz
+**Cevap:** ❌ **Onların evi**
+= Their house
+
+### 6
+
+**Soru:** Senin amcası
+**Cevap:** ❌ **Senin amcan**
+= Your uncle
+
+### 7
+
+**Soru:** Sinan’ın sınıfları
+**Cevap:** **Sinan’ın sınıfları**
+= Sinan's classes/classrooms
+
+### 🔑 Correct list
+
+| Given              | Correct                |
+| ------------------ | ---------------------- |
+| Benim adınız       | **Benim adım**         |
+| Bizim kardeşin     | **Bizim kardeşimiz**   |
+| Sizin arabası      | **Sizin arabanız**     |
+| Onun saçım         | **Onun saçı**          |
+| Onların evimiz     | **Onların evi**        |
+| Senin amcası       | **Senin amcan**        |
+| Sinan’ın sınıfları | **Sinan’ın sınıfları** |
+
+---
+
+# 7️⃣ Reading — Serkan
+
+### Text
+
+> Ben Serkan. Ben öğretmenim. Burası benim sınıfım. Bu çocuk benim öğrencim. Onun adı Hasan. O çok çalışkan. O teneffüste bana soru soruyor. Diğer öğrenciler sınıfta yok. Çünkü onlar bahçede. Onların dersi 5 dakika sonra başlıyor. Biz her gün okula geliyoruz. Bizim dersimiz 09.00’da başlıyor, 13.00’da bitiyor. Siz kaçta okula gidiyorsunuz? Sizin dersleriniz öğlen mi bitiyor akşam mı?
+
+The table asks for the pronouns and their possessive forms.
+
+### Answers
+
+| Pronoun   | Possessive form |
+| --------- | --------------- |
+| **Ben**   | **Benim**       |
+| **O**     | **Onun**        |
+| **Biz**   | **Bizim**       |
+| **Onlar** | **Onların**     |
+| **Sen**   | **Senin**       |
+| **Siz**   | **Sizin**       |
+
+So:
+
+> **Ben → benim**
+> **O → onun**
+> **Biz → bizim**
+> **Onlar → onların**
+> **Sen → senin**
+> **Siz → sizin**
+
+---
+
+# 8️⃣ Doğru Kelimeyi İşaretleyelim
+
+### 13
+
+**Soru:** Benim **babam / baban** avukat.
+
+**Cevap:** **Benim babam avukat.** ✅
+
+= My father is a lawyer.
+
+---
+
+### 14
+
+**Soru:** Onların **evisi / evi** çok büyük.
+
+**Cevap:** **Onların evi çok büyük.** ✅
+
+= Their house is very big.
+
+---
+
+### 15
+
+**Soru:** Sizin **odanızda / odasınızda** bilgisayar var mı?
+
+**Cevap:** **Sizin odanızda bilgisayar var mı?** ✅
+
+= Is there a computer in your room?
+
+> oda + nız + da → **odanızda**
+
+---
+
+### 16
+
+**Soru:** Aysel’in **kardeşin / kardeşi** öğrenci.
+
+**Cevap:** **Aysel’in kardeşi öğrenci.** ✅
+
+= Aysel's sibling is a student.
+
+---
+
+### 17
+
+**Soru:** Bizim **sınıfımızda / sınıfınızda** klima var.
+
+**Cevap:** **Bizim sınıfımızda klima var.** ✅
+
+= There is an air conditioner in our classroom.
+
+---
+
+### 18
+
+**Soru:** Senin **sözlüğün / sözlüğin** nerede?
+
+**Cevap:** **Senin sözlüğün nerede?** ✅
+
+= Where is your dictionary?
+
+---
+
+# 9️⃣ Listening — Questions
+
+⚠️ **The audio/text for this exercise is missing from your message.**
+
+The questions are:
+
+### 19
+
+**Soru:** Mesut kaç yaşında?
+**Cevap:** ❓ **Audio gerekiyor.**
+
+### 20
+
+**Soru:** Ömer ne iş yapıyor?
+**Cevap:** ❓ **Audio gerekiyor.**
+
+### 21
+
+**Soru:** Dilek kaç yaşında ve ne iş yapıyor?
+**Cevap:** ❓ **Audio gerekiyor.**
+
+### 22
+
+**Soru:** Zehra Hanım’ın torunları kim ve onlar kaç yaşındalar?
+**Cevap:** ❓ **Audio gerekiyor.**
+
+### 23
+
+**Soru:** Zehra Hanım ve torunları beraber neler yapıyorlar?
+**Cevap:** ❓ **Audio gerekiyor.**
+
+---
+
+# 🔟 Zehra Hanım'ın Ailesi
+
+Again, this requires the **listening transcript/audio**.
+
+### 24
+
+**Soru:** Suna, Zehra Hanım'ın nesi oluyor?
+**Cevap:** ❓ **Audio gerekiyor.**
+
+### 25
+
+**Soru:** Derya, Zehra Hanım'ın nesi oluyor?
+**Cevap:** ❓ **Audio gerekiyor.**
+
+### 26
+
+**Soru:** Mesut, Zehra Hanım'ın nesi oluyor?
+**Cevap:** ❓ **Audio gerekiyor.**
+
+### 27
+
+**Soru:** Ömer, Zehra Hanım'ın nesi oluyor?
+**Cevap:** ❓ **Audio gerekiyor.**
+
+### 28
+
+**Soru:** Dilek, Zehra Hanım'ın nesi oluyor?
+**Cevap:** ❓ **Audio gerekiyor.**
+
+---
+
+# 🧠 The Main Grammar You Just Practiced
+
+This exercise is **very important** because it combines **possessive suffix + case suffix**.
+
+For example:
+
+### Benim evim
+
+**benim + ev + im**
+= my house
+
+### Benim evimde
+
+**benim + ev + im + de**
+= in my house
+
+### Senin öğretmenin
+
+**senin + öğretmen + in**
+= your teacher
+
+### Senin öğretmenine
+
+**senin + öğretmen + in + e**
+= to your teacher
+
+### Mehmet'in arabası
+
+**Mehmet'in + araba + sı**
+= Mehmet's car
+
+### Mehmet'in arabasına
+
+**Mehmet'in + araba + sı + na**
+= to/at Mehmet's car
+
+### Onların bahçesi
+
+**onların + bahçe + si**
+= their garden
+
+### Onların bahçesinde
+
+**onların + bahçe + si + nde**
+= in their garden
+
+This is the pattern to remember:
+
+> **Possessor + noun + possessive suffix + case suffix**
+
+**Onların + bahçe + si + nde**
+→ **Onların bahçesinde.**
