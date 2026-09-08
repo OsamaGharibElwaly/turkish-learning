@@ -663,3 +663,404 @@ Examples:
 **gel-me-d-i-n mi? → gelmedin mi?**
 
 ---
+
+# YAZMA – KONUŞMA – DİNLEME
+
+## WRITING – SPEAKING – LISTENING
+
+---
+
+# 5. Hafta sonu ne yaptık?
+
+## What did we do at the weekend?
+
+**Kendimize uygun cümleleri işaretleyelim.**
+**Let's check the sentences that are true for us.**
+
+> This exercise is personal. Put **✓** next to the activities you actually did.
+
+### Activities
+
+| Turkish                      | English                                | ✓   |
+| ---------------------------- | -------------------------------------- | --- |
+| **Yemek pişirdim.**          | I cooked.                              | ( ) |
+| **Ders çalıştım.**           | I studied.                             | ( ) |
+| **Müzik dinledim.**          | I listened to music.                   | ( ) |
+| **İnternette gezdim.**       | I browsed/surfed the Internet.         | ( ) |
+| **Televizyon seyrettim.**    | I watched television.                  | ( ) |
+| **Evde film seyrettim.**     | I watched a movie at home.             | ( ) |
+| **Kitap okudum.**            | I read a book.                         | ( ) |
+| **Aileme telefon ettim.**    | I called my family.                    | ( ) |
+| **Dışarıda yemek yedim.**    | I ate out.                             | ( ) |
+| **Evi temizledim.**          | I cleaned the house.                   | ( ) |
+| **Tiyatroya gittim.**        | I went to the theater.                 | ( ) |
+| **Arkadaşlarımla buluştum.** | I met up with my friends.              | ( ) |
+| **Alışveriş yaptım.**        | I went shopping / I did some shopping. | ( ) |
+| **Ailemi ziyaret ettim.**    | I visited my family.                   | ( ) |
+| **Sahilde yürüdüm.**         | I walked on the beach.                 | ( ) |
+
+---
+
+# ⭐ Useful Weekend Sentences
+
+You can combine several activities:
+
+**Hafta sonu kitap okudum.**
+**I read a book at the weekend.**
+
+**Hafta sonu arkadaşlarımla buluştum.**
+**I met up with my friends at the weekend.**
+
+**Cumartesi alışveriş yaptım.**
+**I went shopping on Saturday.**
+
+**Pazar günü evde film seyrettim.**
+**I watched a movie at home on Sunday.**
+
+**Hafta sonu ders çalıştım.**
+**I studied at the weekend.**
+
+---
+
+# 6. Metni dinleyelim ve boşlukları dolduralım.
+
+## Let's listen to the text and fill in the blanks.
+
+# ÖNEMLİ KİŞİLER
+
+## IMPORTANT PEOPLE
+
+---
+
+# FATİH SULTAN MEHMET
+
+**Fatih Sultan Mehmet, 29 Mart 1432'de Edirne'de doğdu.**
+**Fatih Sultan Mehmet was born in Edirne on March 29, 1432.**
+
+**İyi bir eğitim aldı.**
+**He received a good education.**
+
+**20 yaşında hükümdar oldu.**
+**He became a ruler at the age of 20.**
+
+**1481 yılına kadar hükümdarlık yaptı.**
+**He ruled until 1481.**
+
+**İyi bir komutan ve devlet adamıydı.**
+**He was a good commander and statesman.**
+
+**1453'te İstanbul'u fethetti ve Fatih unvanını aldı.**
+**In 1453, he conquered Istanbul and received the title "Fatih" (the Conqueror).**
+
+### Answers from the text:
+
+1. **doğdu** → was born
+2. **aldı** → received
+3. **oldu** → became
+4. **yaptı** → ruled / served as ruler
+5. **aldı** → received
+
+---
+
+# GALİLEO
+
+## GALILEO
+
+**15 Şubat 1564'te İtalya'da doğdu.**
+**He was born in Italy on February 15, 1564.**
+
+**25 yaşında matematik profesörü oldu.**
+**He became a mathematics professor at the age of 25.**
+
+**1609 yılında teleskopu geliştirdi.**
+**In 1609, he improved the telescope.**
+
+**Uzay araştırmaları yaptı.**
+**He conducted research on space.**
+
+**"Dünya düz değil, yuvarlaktır" dedi.**
+**He said, "The Earth is not flat; it is round."**
+
+**Bu sebeple kilise ona ömür boyu hapis cezası verdi.**
+**For this reason, the Church sentenced him to life imprisonment.**
+
+### Answers from the text:
+
+1. **doğdu** → was born
+2. **oldu** → became
+3. **geliştirdi** → improved / developed
+4. **yaptı** → conducted / did
+5. **dedi** → said
+6. **verdi** → gave
+
+---
+
+# ORHAN PAMUK
+
+**Orhan Pamuk 1952'de İstanbul'da doğdu.**
+**Orhan Pamuk was born in Istanbul in 1952.**
+
+**İstanbul Üniversitesinde gazetecilik okudu.**
+**He studied journalism at Istanbul University.**
+
+**Pamuk, yirmi üç yaşından sonra romancı olmak istedi.**
+**After the age of 23, Pamuk wanted to become a novelist.**
+
+**Çok çalıştı, araştırmalar yaptı, romanlar yazdı.**
+**He worked hard, conducted research, and wrote novels.**
+
+**İlk romanı Cevdet Bey ve Oğulları'nı 1982'de yayımladı ve bu romanıyla ödüller aldı.**
+**He published his first novel, Cevdet Bey ve Oğulları, in 1982 and received awards for this novel.**
+
+**Orhan Pamuk 2006 yılında Nobel Edebiyat Ödülü'nü aldı.**
+**Orhan Pamuk received the Nobel Prize in Literature in 2006.**
+
+### Answers from the text:
+
+1. **doğdu** → was born
+2. **okudu** → studied
+3. **istedi** → wanted
+4. **çalıştı** → worked
+5. **yaptı** → did / conducted
+6. **yazdı** → wrote
+7. **yayımladı** → published
+8. **aldı** → received
+
+---
+
+# 7. Aşağıdaki boşlukları metindeki kişilere göre dolduralım.
+
+## Fill in the blanks according to the people in the text.
+
+### 1.
+
+**20 yaşında Osmanlı padişahı oldu.**
+**He became the Ottoman sultan at the age of 20.**
+
+→ **Fatih Sultan Mehmet**
+
+### 2.
+
+**2006 yılında Nobel Edebiyat Ödülü'nü aldı.**
+**He received the Nobel Prize in Literature in 2006.**
+
+→ **Orhan Pamuk**
+
+### 3.
+
+**Tavan arasında birçok deney yaptı.**
+**He conducted many experiments in the attic.**
+
+→ **Galileo**
+
+### 4.
+
+**Uzak yerlerle iletişimi sağlamak için radyoyu icat etti.**
+**He invented the radio to communicate with distant places.**
+
+→ **[This person is not identified in the three texts above.]**
+
+> **Important:** This sentence appears to refer to another person that is **not included in the text you provided**. So we cannot determine the answer from the given passage alone.
+
+### 5.
+
+**İyi bir komutan ve idareciydi.**
+**He was a good commander and administrator.**
+
+→ **Fatih Sultan Mehmet**
+
+---
+
+# 8. Biz de kendi hayatımızla ilgili bazı bilgiler yazalım.
+
+## Let's write some information about our own lives.
+
+Answer these questions about yourself.
+
+### 1. Nerede ve ne zaman doğdunuz?
+
+**Where and when were you born?**
+
+Example:
+
+**1990 yılında İstanbul'da doğdum.**
+**I was born in Istanbul in 1990.**
+
+---
+
+### 2. Hangi okullara gittiniz?
+
+**Which schools did you attend?**
+
+Example:
+
+**İlkokula X Okulunda gittim. Liseyi Y Lisesinde okudum.**
+**I attended X School for primary school. I went to Y High School.**
+
+---
+
+### 3. Nerelerde yaşadınız?
+
+**Where have you lived? / Where did you live?**
+
+Example:
+
+**İstanbul'da ve Ankara'da yaşadım.**
+**I lived in Istanbul and Ankara.**
+
+---
+
+# 9. Sizin ülkenizde dünyaca ünlü kişiler kimler?
+
+## Who are the world-famous people in your country?
+
+**Neler yaptılar? Konuşalım.**
+**What did they do? Let's talk about them.**
+
+Useful structure:
+
+**_____ yılında doğdu.**
+**He/She was born in _____ .**
+
+**_____ yılında _____ oldu.**
+**He/She became _____ in _____ .**
+
+**_____ icat etti.**
+**He/She invented _____ .**
+
+**_____ keşfetti.**
+**He/She discovered _____ .**
+
+**_____ yazdı.**
+**He/She wrote _____ .**
+
+**_____ ödülü aldı.**
+**He/She received _____ award.**
+
+---
+
+# ⭐ VOCABULARY
+
+| Turkish                          | English                   |
+| -------------------------------- | ------------------------- |
+| **hafta sonu**                   | weekend                   |
+| **yemek pişirmek**               | to cook                   |
+| **ders çalışmak**                | to study                  |
+| **müzik dinlemek**               | to listen to music        |
+| **internette gezmek**            | to browse the Internet    |
+| **televizyon seyretmek**         | to watch television       |
+| **film seyretmek**               | to watch a movie          |
+| **kitap okumak**                 | to read a book            |
+| **telefon etmek**                | to call                   |
+| **dışarıda yemek yemek**         | to eat out                |
+| **evi temizlemek**               | to clean the house        |
+| **tiyatroya gitmek**             | to go to the theater      |
+| **buluşmak**                     | to meet up                |
+| **alışveriş yapmak**             | to go shopping            |
+| **ziyaret etmek**                | to visit                  |
+| **sahilde yürümek**              | to walk on the beach      |
+| **önemli kişi**                  | important person          |
+| **doğmak**                       | to be born                |
+| **eğitim almak**                 | to receive an education   |
+| **hükümdar olmak**               | to become a ruler         |
+| **hükümdarlık yapmak**           | to rule                   |
+| **komutan**                      | commander                 |
+| **devlet adamı**                 | statesman                 |
+| **fethetmek**                    | to conquer                |
+| **unvan**                        | title                     |
+| **profesör**                     | professor                 |
+| **geliştirmek**                  | to improve / develop      |
+| **uzay araştırması**             | space research            |
+| **araştırma yapmak**             | to conduct research       |
+| **düz**                          | flat / straight           |
+| **yuvarlak**                     | round                     |
+| **kilise**                       | church                    |
+| **ömür boyu**                    | lifelong / for life       |
+| **hapis cezası**                 | prison sentence           |
+| **gazetecilik**                  | journalism                |
+| **romancı**                      | novelist                  |
+| **roman**                        | novel                     |
+| **yayımlamak**                   | to publish                |
+| **ödül**                         | award / prize             |
+| **Nobel Edebiyat Ödülü**         | Nobel Prize in Literature |
+| **dünya çapında / dünyaca ünlü** | world-famous              |
+
+---
+
+# 🧠 PAST TENSE VERBS FROM THIS SECTION
+
+| Infinitive        | Past Tense       | English        |
+| ----------------- | ---------------- | -------------- |
+| **doğmak**        | **doğdu**        | was born       |
+| **almak**         | **aldı**         | received       |
+| **olmak**         | **oldu**         | became / was   |
+| **yapmak**        | **yaptı**        | did / made     |
+| **fethetmek**     | **fethetti**     | conquered      |
+| **geliştirmek**   | **geliştirdi**   | improved       |
+| **demek**         | **dedi**         | said           |
+| **vermek**        | **verdi**        | gave           |
+| **okumak**        | **okudu**        | studied/read   |
+| **istemek**       | **istedi**       | wanted         |
+| **çalışmak**      | **çalıştı**      | worked/studied |
+| **yazmak**        | **yazdı**        | wrote          |
+| **yayımlamak**    | **yayımladı**    | published      |
+| **dinlemek**      | **dinledi**      | listened       |
+| **pişirmek**      | **pişirdi**      | cooked         |
+| **temizlemek**    | **temizledi**    | cleaned        |
+| **buluşmak**      | **buluştu**      | met up         |
+| **yürümek**       | **yürüdü**       | walked         |
+| **gitmek**        | **gitti**        | went           |
+| **seyretmek**     | **seyretti**     | watched        |
+| **okumak**        | **okudu**        | read           |
+| **telefon etmek** | **telefon etti** | called         |
+
+---
+
+# ⭐ MAIN A2 PATTERN
+
+This entire exercise is practicing:
+
+### **Subject + Verb(-DI) + Other Information**
+
+**Ben kitap okudum.**
+I read a book.
+
+**Fatih Sultan Mehmet İstanbul'u fethetti.**
+Fatih Sultan Mehmet conquered Istanbul.
+
+**Galileo uzay araştırmaları yaptı.**
+Galileo conducted space research.
+
+**Orhan Pamuk romanlar yazdı.**
+Orhan Pamuk wrote novels.
+
+### Negative
+
+**Ders çalışmadım.**
+I didn't study.
+
+**Film seyretmedim.**
+I didn't watch a movie.
+
+### Question
+
+**Ne yaptın?**
+What did you do?
+
+**Hafta sonu ne yaptınız?**
+What did you do at the weekend?
+
+**Daha önce seyrettiniz mi?**
+Did you watch it before?
+
+---
+
+# 🎯 SPEAKING PRACTICE
+
+A very useful A2 answer to **"Hafta sonu ne yaptın?"** is:
+
+**Hafta sonu ders çalıştım, kitap okudum, müzik dinledim ve arkadaşlarımla buluştum. Pazar günü sahilde yürüdüm.**
+
+**At the weekend, I studied, read a book, listened to music, and met up with my friends. On Sunday, I walked on the beach.**
+
+This lets you practice several **-DI past-tense verbs in one natural answer**.
