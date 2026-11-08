@@ -3066,3 +3066,382 @@ I know him/her, but I don't know his/her address.
   After making a mistake, he/she tried again.
 
 ---
+## Day 3 - page 30 to 40
+
+# DAY 3 — TURKISH VOCABULARY
+
+## 1. Adverbs and Expressions
+
+### sonsuza kadar — forever; for good
+1. Seni sonsuza kadar hatırlayacağım.
+   I will remember you forever.
+2. Bu olay hayatımı sonsuza kadar değiştirdi.
+   This event changed my life forever.
+
+### hiçbir zaman — never
+1. Hiçbir zaman yalan söylemem.
+   I never tell lies.
+2. Onu hiçbir zaman unutmayacağım.
+   I will never forget him.
+
+### tekrar — again
+1. Bu filmi tekrar izlemek istiyorum.
+   I want to watch this movie again.
+2. Lütfen cümleni tekrar eder misin?
+   Could you repeat your sentence, please?
+
+### şimdi — now
+1. Şimdi Türkçe öğreniyorum.
+   I am learning Turkish now.
+2. Şimdi dışarı çıkmam gerekiyor.
+   I need to go outside now.
+
+### sık sık — often; frequently
+1. Arkadaşlarımla sık sık buluşurum.
+   I often meet my friends.
+2. Bu kitabı sık sık okuyorum.
+   I read this book frequently.
+
+### o zaman — then; in that case
+1. O zaman çok gençtim.
+   I was very young then.
+2. Yarın vaktin varsa o zaman görüşelim.
+   If you have time tomorrow, let's meet then.
+
+### acele — hurry; urgency
+1. Acele etme, zamanımız var.
+   Don't hurry; we have time.
+2. Çok acelem var, hemen gitmeliyim.
+   I am in a big hurry; I must leave immediately.
+
+### genellikle — usually; generally
+1. Genellikle sabah erken kalkarım.
+   I usually wake up early in the morning.
+2. İnsanlar genellikle hafta sonları dinlenir.
+   People generally rest on weekends.
+
+### aklıma gelmişken — by the way; while I remember
+1. Aklıma gelmişken, sana bir şey soracağım.
+   By the way, I want to ask you something.
+2. Aklıma gelmişken, kitabını sana geri vereyim.
+   While I remember, let me return your book.
+
+### mümkündür — it is possible
+1. Bu sorunu çözmek mümkündür.
+   It is possible to solve this problem.
+2. Yarın yağmur yağması mümkündür.
+   It is possible that it will rain tomorrow.
+
+### muhtemelen — probably
+1. Muhtemelen yarın evde olacağım.
+   I will probably be at home tomorrow.
+2. Otobüs muhtemelen biraz geç gelecek.
+   The bus will probably arrive a little late.
+
+### olabilir — maybe; it may be
+1. Bugün hava soğuk olabilir.
+   The weather may be cold today.
+2. Haklı olabilirsin.
+   You may be right.
+
+### ayrıca — besides; additionally
+1. Ayrıca bu konuda konuşmamız gerekiyor.
+   Besides, we need to talk about this subject.
+2. Türkçe öğreniyorum, ayrıca İngilizcemi geliştiriyorum.
+   I am learning Turkish, and additionally, I am improving my English.
+
+### onun için — that's why; for that reason
+1. Çok yorgundum, onun için erken yattım.
+   I was very tired; that's why I went to bed early.
+2. Türkçe öğrenmek istiyorum, onun için her gün çalışıyorum.
+   I want to learn Turkish; that's why I study every day.
+
+### rağmen — despite; although
+1. Yağmura rağmen dışarı çıktık.
+   We went outside despite the rain.
+2. Çok yorgun olmasına rağmen çalışmaya devam etti.
+   Although he was very tired, he continued working.
+
+### sayesinde — thanks to
+1. Senin sayende bu işi başardım.
+   I succeeded in this task thanks to you.
+2. Düzenli çalışmam sayesinde Türkçem gelişti.
+   My Turkish improved thanks to my regular studying.
+
+## 2. Pronouns and Function Words
+
+### ne — what
+1. Ne yapmak istiyorsun?
+   What do you want to do?
+2. Bana ne olduğunu anlatır mısın?
+   Can you tell me what happened?
+
+### -ki — that; which (conjunction/suffix)
+1. Biliyorum ki başarılı olacaksın.
+   I know that you will succeed.
+2. Duyduğum haber beni şaşırttı.
+   The news that I heard surprised me.
+
+### bir şey — something; anything
+1. Sana bir şey söylemek istiyorum.
+   I want to tell you something.
+2. Bugün bir şey yedin mi?
+   Did you eat anything today?
+
+### hiçbir şey — nothing; not anything
+1. Bugün hiçbir şey yapmadım.
+   I didn't do anything today.
+2. Bu konuda hiçbir şey bilmiyorum.
+   I know nothing about this subject.
+
+### kim — who
+1. Kapıyı kim açtı?
+   Who opened the door?
+2. Bu kitabı kim yazdı?
+   Who wrote this book?
+
+### birisi — somebody; someone
+1. Dışarıda birisi seni bekliyor.
+   Someone is waiting for you outside.
+2. Birisi bana yardım etti.
+   Somebody helped me.
+
+### hiç kimse — nobody; no one
+1. Evde hiç kimse yoktu.
+   There was nobody at home.
+2. Hiç kimse bu soruya cevap veremedi.
+   Nobody could answer this question.
+
+### hiçbir yere — nowhere; to nowhere
+1. Bugün hiçbir yere gitmek istemiyorum.
+   I don't want to go anywhere today.
+2. Anahtarlarımı bulamayınca hiçbir yere gidemedim.
+   I couldn't go anywhere because I couldn't find my keys.
+
+### kimsesiz — lonely; without anyone
+1. Kimsesiz çocuklara yardım ediyorlar.
+   They help children who have nobody.
+2. Bu yaşlı adam kendini kimsesiz hissediyor.
+   This old man feels alone.
+
+### birinin — someone's; of someone
+1. Birinin telefonunu buldum.
+   I found someone's phone.
+2. Birinin yardımına ihtiyacım var.
+   I need someone's help.
+
+### öylesine — just like that; so
+1. Öylesine dışarı çıktım.
+   I just went outside for no particular reason.
+2. Bu şarkıyı öylesine dinlemiyorum, çok seviyorum.
+   I don't listen to this song just casually; I love it.
+
+### dahi — even; also
+1. O kadar yorgundum ki yürümek dahi istemedim.
+   I was so tired that I didn't even want to walk.
+2. Bu konuyu çocuklar dahi anlayabilir.
+   Even children can understand this subject.
+
+### da / de — also; too
+1. Ben de seninle gelmek istiyorum.
+   I want to come with you too.
+2. Kardeşim de Türkçe öğreniyor.
+   My brother is also learning Turkish.
+
+### neden — why; reason
+1. Neden geç kaldın?
+   Why were you late?
+2. Bu sorunun nedenini bilmiyorum.
+   I don't know the reason for this problem.
+
+### nedense — for some reason
+1. Nedense bugün kendimi mutsuz hissediyorum.
+   For some reason, I feel unhappy today.
+2. Nedense bu şarkıyı çok seviyorum.
+   For some reason, I really like this song.
+
+### çünkü — because
+1. Bugün dışarı çıkmadım çünkü hastaydım.
+   I didn't go outside today because I was sick.
+2. Türkçe çalışıyorum çünkü Türkiye'de yaşamak istiyorum.
+   I study Turkish because I want to live in Turkey.
+
+### ve — and
+1. Kitap ve defter aldım.
+   I bought a book and a notebook.
+2. Hem çalışıyor hem de Türkçe öğreniyor.
+   He both works and learns Turkish.
+
+### veya — or
+1. Çay veya kahve ister misin?
+   Would you like tea or coffee?
+2. Yarın veya cuma günü gelebilirim.
+   I can come tomorrow or Friday.
+
+### fakat — but; however
+1. Gitmek istedim fakat vaktim yoktu.
+   I wanted to go, but I didn't have time.
+2. Çok çalıştı fakat başarılı olamadı.
+   He worked hard, but he couldn't succeed.
+
+### için — for; in order to
+1. Bu hediye senin için.
+   This gift is for you.
+2. Türkçe öğrenmek için her gün çalışıyorum.
+   I study every day in order to learn Turkish.
+
+### fazla — too much; excessive; extra
+1. Çok fazla kahve içiyorum.
+   I drink too much coffee.
+2. Bu çanta benim için fazla ağır.
+   This bag is too heavy for me.
+
+### ancak — only; but; however
+1. Bu işi ancak sen yapabilirsin.
+   Only you can do this job.
+2. Yardım etmek istedim ancak fırsat bulamadım.
+   I wanted to help, but I couldn't find the opportunity.
+
+### tam — exactly; precisely
+1. Saat tam sekizde geldim.
+   I arrived at exactly eight o'clock.
+2. Aradığım şey tam olarak buydu.
+   This was exactly what I was looking for.
+
+### yaklaşık — approximately; about
+1. Buraya yaklaşık iki saat önce geldim.
+   I arrived here about two hours ago.
+2. Bu kitap yaklaşık yüz sayfa.
+   This book is approximately one hundred pages.
+
+### yaklaşık olarak — approximately
+1. Yolculuk yaklaşık olarak üç saat sürüyor.
+   The journey takes approximately three hours.
+2. Bu iş yaklaşık olarak bin lira tutar.
+   This job costs approximately one thousand lira.
+
+### hemen — almost; immediately (context-dependent)
+1. Eve gelir gelmez hemen uyudu.
+   He immediately slept after arriving home.
+2. Hemen hemen herkes toplantıya katıldı.
+   Almost everyone attended the meeting.
+
+### geri kalan — the rest; remaining
+1. Geri kalan işleri yarın yapacağım.
+   I will do the remaining tasks tomorrow.
+2. Paranın geri kalanını sana vereceğim.
+   I will give you the rest of the money.
+
+### her biri — each; every one
+1. Öğrencilerin her biri bir kitap aldı.
+   Each student bought a book.
+2. Bu soruların her biri çok önemli.
+   Each of these questions is very important.
+
+### herhangi biri — any one; anyone
+1. Herhangi biri bu soruyu cevaplayabilir.
+   Anyone can answer this question.
+2. Herhangi birini seçebilirsin.
+   You can choose any one.
+
+### çok — many; much; very
+1. Çok insan bu şehirde yaşıyor.
+   Many people live in this city.
+2. Bugün çok yorgunum.
+   I am very tired today.
+
+### birçokları — many of them
+1. Birçokları bu karara karşı çıktı.
+   Many of them opposed this decision.
+2. Birçokları yeni bir hayat kurmak istiyor.
+   Many of them want to build a new life.
+
+### hepsi — all; everyone
+1. Arkadaşlarımın hepsi geldi.
+   All my friends came.
+2. Bu kitapların hepsini okudum.
+   I read all these books.
+
+### herkes — everybody; everyone
+1. Herkes toplantıya katıldı.
+   Everyone attended the meeting.
+2. Herkes kendi hayatından sorumludur.
+   Everyone is responsible for their own life.
+
+### karşılık olarak — in return for; in exchange for
+1. Yardımın karşılık olarak sana teşekkür etmek istiyorum.
+   I want to thank you in return for your help.
+2. Verdiğim hizmet karşılık olarak para aldım.
+   I received money in exchange for the service I provided.
+
+### yerine — instead of; in place of
+1. Kahve yerine çay içtim.
+   I drank tea instead of coffee.
+2. Otobüs yerine yürümeyi tercih ettim.
+   I preferred walking instead of taking the bus.
+
+### elle / el ile — by hand
+1. Bu elbiseyi elle diktim.
+   I sewed this dress by hand.
+2. Bu ürünler el ile hazırlanıyor.
+   These products are prepared by hand.
+
+### şüpheli — suspicious; doubtful
+1. Bu adamın davranışları çok şüpheli.
+   This man's behavior is very suspicious.
+2. Şüpheli bir ses duyunca dışarı çıktım.
+   I went outside when I heard a suspicious noise.
+
+### galiba — probably; I guess
+1. Galiba bugün yağmur yağacak.
+   I guess it will rain today.
+2. Galiba yanlış otobüse bindik.
+   We probably got on the wrong bus.
+
+### mahsus — deliberately; on purpose
+1. Bunu mahsus yaptığını biliyorum.
+   I know you did this on purpose.
+2. Bana mahsus bir hediye aldı.
+   He bought a special gift for me.
+
+### tesadüfen — by chance; accidentally
+1. Onunla sokakta tesadüfen karşılaştım.
+   I met him on the street by chance.
+2. Bu kitabı tesadüfen buldum.
+   I found this book by chance.
+
+### pek — very; particularly (often in negatives)
+1. Bu filmi pek beğenmedim.
+   I didn't particularly like this movie.
+2. Bugün pek iyi hissetmiyorum.
+   I don't feel very well today.
+
+### mesela — for example
+1. Mesela hafta sonları kitap okuyabilirsin.
+   For example, you can read books on weekends.
+2. Bazı hobilerim var, mesela yüzmek ve yürümek.
+   I have some hobbies, for example swimming and walking.
+
+### arasında — between; among
+1. Evim okul ile hastane arasında.
+   My house is between the school and the hospital.
+2. Arkadaşlarım arasında Türkçe bilenler var.
+   There are people who know Turkish among my friends.
+
+### ortasında — in the middle of
+1. Odanın ortasında büyük bir masa var.
+   There is a big table in the middle of the room.
+2. Toplantının ortasında telefonum çaldı.
+   My phone rang in the middle of the meeting.
+
+### kadar — as much as; so; until
+1. Senin kadar hızlı koşamam.
+   I cannot run as fast as you.
+2. Akşama kadar burada çalışacağım.
+   I will work here until the evening.
+
+### özellikle — especially; particularly
+1. Özellikle Türkçe konuşma pratiği yapmak istiyorum.
+   I especially want to practise speaking Turkish.
+2. Özellikle bu konuyla ilgileniyorum.
+   I am particularly interested in this subject.
